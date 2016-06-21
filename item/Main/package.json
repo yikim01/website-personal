@@ -1,0 +1,17 @@
+{
+  "name": "express-static-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "Denis Kabistan",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "node-sass": "^3.8.0",
+    "nodemon": "^1.9.2"
+  }
+}
